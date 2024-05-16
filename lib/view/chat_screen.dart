@@ -1,5 +1,5 @@
-import 'package:chat_gpt/provider/chat_controller.dart';
-import 'package:chat_gpt/provider/model_controller.dart';
+import 'package:chat_gpt/controllers/chat_controller.dart';
+import 'package:chat_gpt/controllers/model_controller.dart';
 import 'package:chat_gpt/services/services.dart';
 import 'package:chat_gpt/utils/app_colors.dart';
 import 'package:chat_gpt/view/widgets/chat_widget.dart';

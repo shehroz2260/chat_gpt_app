@@ -1,5 +1,5 @@
 import 'package:chat_gpt/models/open_apimodel_model.dart';
-import 'package:chat_gpt/provider/model_controller.dart';
+import 'package:chat_gpt/controllers/model_controller.dart';
 import 'package:chat_gpt/utils/app_colors.dart';
 import 'package:chat_gpt/view/widgets/custom_text_widget.dart';
 import 'package:flutter/material.dart';
