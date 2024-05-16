@@ -7,8 +7,8 @@ import 'package:chat_gpt/models/open_apimodel_model.dart';
 import 'package:http/http.dart' as http;
 
 const String baseUrl = "https://api.openai.com/v1";
-const String apiKey =
-    'sk-proj-XhzRe6jHW9OnoC3IsjFxT3BlbkFJkkiDYNBt03UfmqvDjk1J';
+const String apiKey = "";
+// '';
 
 class ApiServices {
   static Future<List<OpenApiModel>> getModel() async {
