@@ -8,7 +8,6 @@ import 'package:http/http.dart' as http;
 
 const String baseUrl = "https://api.openai.com/v1";
 const String apiKey = "";
-// '';
 
 class ApiServices {
   static Future<List<OpenApiModel>> getModel() async {
